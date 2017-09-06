@@ -1,0 +1,26 @@
+{
+  "name": "fcs_easyui",
+  "version": "1.0.8",
+  "description": "FCS项目基础组件库，此库用来发布Npm库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erhutime/FCSUI.git"
+  },
+  "keywords": [
+    "react-native",
+    "ui"
+  ],
+  "author": "fcs.time@sunyard.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erhutime/FCSUI/issues"
+  },
+  "homepage": "https://github.com/erhutime/FCSUI#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
