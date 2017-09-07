@@ -30,6 +30,10 @@ import Menu from './components/Menu/Menu';
 import Drawer from './components/Drawer/Drawer';
 import ModalIndicator from './components/ModalIndicator/ModalIndicator';
 import KeyboardSpace from './components/KeyboardSpace/KeyboardSpace';
+import Pie from './components/Pie/Pie'
+import Wedge from './components/Wedge/Wedge'
+
+
 
 var FcsUi = {
     Theme,
@@ -62,6 +66,9 @@ var FcsUi = {
     Drawer,
     ModalIndicator,
     KeyboardSpace,
+
+    Pie,
+    Wedge
 };
 
 module.exports = FcsUi;
