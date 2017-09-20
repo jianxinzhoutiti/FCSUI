@@ -32,6 +32,7 @@ import ModalIndicator from './components/ModalIndicator/ModalIndicator';
 import KeyboardSpace from './components/KeyboardSpace/KeyboardSpace';
 import Pie from './components/Pie/Pie'
 import Wedge from './components/Wedge/Wedge'
+import AutoExpandingTextInput from './components/AutoLayout/AutoExpandingTextInput'
 
 
 
@@ -68,7 +69,8 @@ var FcsUi = {
     KeyboardSpace,
 
     Pie,
-    Wedge
+    Wedge,
+    AutoExpandingTextInput
 };
 
 module.exports = FcsUi;
