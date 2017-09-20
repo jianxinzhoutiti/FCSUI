@@ -3,7 +3,7 @@
 import {PixelRatio, Dimensions} from 'react-native';
 
 //primary color
-const primaryColor = '#337ab7';
+const primaryColor = 'red';
 //secondary color
 const secondaryColor = '#5bc0de';
 //default color
